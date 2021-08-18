@@ -3,14 +3,14 @@
     <VersionNumber>6</VersionNumber>
   </CurrentVersion>
   <Video>
-    <ResolutionWidth>2560</ResolutionWidth>
-    <ResolutionHeight>1440</ResolutionHeight>
+    <ResolutionWidth>1920</ResolutionWidth>
+    <ResolutionHeight>1200</ResolutionHeight>
     <ResolutionRefreshRate>59</ResolutionRefreshRate>
     <Fullscreen>1</Fullscreen>
-    <VerticalSynchronization>0</VerticalSynchronization>
+    <VerticalSynchronization>1</VerticalSynchronization>
     <MaxFPS>60</MaxFPS>
     <SSAO>0</SSAO>
-    <MSAA>4</MSAA>
+    <MSAA>2</MSAA>
     <FXAA>1</FXAA>
     <PlanetSurfaceShadow>0</PlanetSurfaceShadow>
     <PlanetaryAtmosphereBlur>1</PlanetaryAtmosphereBlur>
@@ -29,7 +29,7 @@
     <BuildingWarnMask>1023</BuildingWarnMask>
     <ResearchQueueAlwaysOnDisplay>1</ResearchQueueAlwaysOnDisplay>
     <AutomaticallyMoveBuildingTarget>1</AutomaticallyMoveBuildingTarget>
-    <BuildViewMode>1</BuildViewMode>
+    <BuildViewMode>0</BuildViewMode>
     <UILayoutReferenceHeight>1080</UILayoutReferenceHeight>
     <DemolishContainerQuery>1</DemolishContainerQuery>
     <LogicalFrameThreadsCount>0</LogicalFrameThreadsCount>
